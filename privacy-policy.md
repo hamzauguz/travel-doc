@@ -1,4 +1,4 @@
-Gizlilik Politikası
+**Gizlilik Politikası**
 
 Bu gizlilik politikası, Travel AI uygulaması (bundan böyle "Uygulama" olarak anılacaktır) için geçerlidir. Uygulama, Hamza UĞUZ (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından bir Reklam Destekli hizmet olarak oluşturulmuştur. Bu hizmet, "Olduğu Gibi" kullanılması amacıyla tasarlanmıştır.
 Bilgi Toplama ve Kullanma
