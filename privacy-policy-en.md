@@ -1,68 +1,76 @@
 # Privacy Policy
 
-This privacy policy applies to the **TravelAI** application (hereinafter referred to as the "Application"). The Application was created by **Hamza UĞUZ** (hereinafter referred to as the "Service Provider") as an **Ad-Supported** service. This service is designed to be used **"As Is."**
+This privacy policy applies to the **Travexus** application (hereinafter referred to as the "Application"). The Application was created by **Hamza UĞUZ** (hereinafter referred to as the "Service Provider") as an **Ad-Supported** service. This service is designed to be used **"As Is."**
 
 ## Information Collection and Use
 
 When you download and use the Application, certain information is collected, including:
 
-- Your device's Internet Protocol address (e.g., IP address)
-- Pages you visit within the Application, along with the date and time of your visits
-- The time you spend within the Application
-- The operating system of your mobile device
+- Your device's Internet Protocol address (e.g., IP address)  
+- Pages you visit within the Application, along with the date and time of your visits  
+- The time you spend within the Application  
+- The operating system and device type of your mobile device  
+- **Location data (approximate or precise, depending on your device settings and permissions)**  
 
-The Application does not collect precise location data from your mobile device.
+The Application collects **location data** to provide personalized travel suggestions, nearby points of interest, and region-specific content. Location data may be collected while the Application is in use and, with your consent, in the background. This data is used to enhance user experience and is **not shared with third parties for advertising purposes**.
 
-The Service Provider may use the collected information to provide you with important updates, necessary notifications, and marketing promotions.
+You can manage or revoke location access at any time via your device's privacy settings.
 
-For a better experience, you may need to provide certain personal information while using the Application, such as identification details. The Service Provider will store and use this information as described in this privacy policy.
+The Service Provider may use the collected information to provide you with updates, notifications, and marketing communications relevant to the Application.
+
+For a better experience, you may be asked to provide personal information such as identification details. The Service Provider stores and uses this information as described in this Privacy Policy.
 
 ## Third-Party Access
 
-Only aggregated and anonymized data is periodically transmitted to external services to help improve the Application and services. The Service Provider may share your information with third parties as described in this privacy policy.
+Only aggregated and anonymized data is periodically transmitted to external services to help improve the Application and its features.
 
-The Application may use third-party services that have their own Privacy Policies regarding data processing. Below are the privacy policy links for third-party service providers used in the Application:
+The Application may use third-party services that have their own privacy policies regarding data processing. These include:
 
-- [Google Play Services](https://policies.google.com/privacy)
-- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-- [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Google Play Services](https://policies.google.com/privacy)  
+- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)  
+- [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)  
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)  
 - [RevenueCat](https://www.revenuecat.com/privacy)
 
 ## Disclosure of Information
 
-The Service Provider may disclose User-Provided and Automatically Collected Information under the following circumstances:
+The Service Provider may disclose User-Provided and Automatically Collected Information:
 
-- When required by law, such as to comply with a subpoena or similar legal process;
-- When it is necessary to protect the rights of the Service Provider, ensure your or others' safety, investigate fraud, or respond to government requests;
-- When working with trusted service providers who act on behalf of the Service Provider and are prohibited from using the disclosed information independently.
+- When required by law (e.g., subpoena or legal request)  
+- To protect the rights, safety, or property of the Service Provider or users  
+- To investigate fraud or other harmful activity  
+- To trusted service providers working on behalf of the Service Provider under strict confidentiality
 
 ## Opt-Out Rights
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use standard uninstall processes available on your device, the mobile application store, or the network.
+You can stop all data collection by uninstalling the Application. You may use standard uninstall procedures available on your device or the app store.
+
+You can also **disable location access** from your device settings, which may limit some features.
 
 ## Data Retention Policy
 
-The Service Provider will retain User-Provided data as long as you use the Application and for a reasonable time thereafter. If you would like the Service Provider to delete User-Provided Data collected via the Application, please contact [hamzaoguz123@gmail.com](mailto:hamzaoguz123@gmail.com), and the Service Provider will respond within a reasonable time.
+User-provided data will be retained for as long as you use the Application and for a reasonable time afterward. To request deletion of your data, contact:  
+📧 [hamzaoguz123@gmail.com](mailto:hamzaoguz123@gmail.com)
 
 ## Children
 
-The Service Provider does not use the Application to knowingly collect data from or market to children under the age of 13. The Application is not directed to individuals under the age of 13. If the Service Provider learns that personal information from a child under 13 has been collected, it will be deleted from the servers immediately. If you are a parent or guardian and believe that your child has provided personal information, please contact [hamzaoguz123@gmail.com](mailto:hamzaoguz123@gmail.com) so that necessary actions can be taken.
+The Application is not intended for children under 13. The Service Provider does not knowingly collect data from or market to children under 13. If such data is discovered, it will be deleted immediately. Parents or guardians can contact the Service Provider for further action.
 
 ## Security
 
-The Service Provider implements physical, electronic, and procedural measures to help safeguard your information.
+The Service Provider uses physical, electronic, and procedural safeguards to protect your data. However, no method of transmission over the internet or electronic storage is 100% secure.
 
 ## Changes
 
-This Privacy Policy may be updated from time to time. The Service Provider will notify you of any changes by updating this page. You are encouraged to review this Privacy Policy periodically. Continued use of the Application constitutes your acceptance of any modifications.
+This Privacy Policy may be updated from time to time. Changes will be posted on this page. Continued use of the Application after updates constitutes your acceptance of the new terms.
 
-This Privacy Policy is effective as of **15.02.2025**.
+**Effective date:** 01.08.2025
 
 ## Your Consent
 
-By using the Application, you consent to the processing of your information as outlined in this Privacy Policy.
+By using the Application, you consent to the collection and use of your information as outlined in this Privacy Policy.
 
 ## Contact Us
 
-If you have any questions about privacy while using the Application or have inquiries about the Application, please contact the Service Provider at [hamzaoguz123@gmail.com](mailto:hamzaoguz123@gmail.com).
+For any questions or concerns regarding this Privacy Policy, please contact:  
+📧 [hamzaoguz123@gmail.com](mailto:hamzaoguz123@gmail.com)
