@@ -10,11 +10,21 @@ When you download and use the Application, certain information is collected, inc
 - Pages you visit within the Application, along with the date and time of your visits  
 - The time you spend within the Application  
 - The operating system and device type of your mobile device  
-- **Location data (approximate or precise, depending on your device settings and permissions)**  
+- **Location data** (approximate or precise, depending on your device settings and permissions)  
+- **Photos or images captured via the device camera or selected from your gallery** (only when initiated by the user for analysis purposes)  
 
+### Location Data
 The Application collects **location data** to provide personalized travel suggestions, nearby points of interest, and region-specific content. Location data may be collected while the Application is in use and, with your consent, in the background. This data is used to enhance user experience and is **not shared with third parties for advertising purposes**.
 
 You can manage or revoke location access at any time via your device's privacy settings.
+
+### Camera and Gallery Access
+The Application may request access to your **camera** or **photo gallery** to use the **AI-powered image recognition** feature.  
+This feature allows you to take a photo or select an image from your gallery—for example, of an artwork, historical site, or cultural object—and receive information about what it is and its significance.
+
+- Images captured or selected are **processed solely for real-time analysis**.  
+- Images are **not stored permanently on servers** and are **never sold to third parties**.  
+- You can revoke camera or gallery permissions at any time via your device settings.
 
 The Service Provider may use the collected information to provide you with updates, notifications, and marketing communications relevant to the Application.
 
@@ -45,11 +55,14 @@ The Service Provider may disclose User-Provided and Automatically Collected Info
 
 You can stop all data collection by uninstalling the Application. You may use standard uninstall procedures available on your device or the app store.
 
-You can also **disable location access** from your device settings, which may limit some features.
+You can also disable location, camera, and gallery access from your device settings, which may limit some features.
 
 ## Data Retention Policy
 
-User-provided data will be retained for as long as you use the Application and for a reasonable time afterward. To request deletion of your data, contact:  
+User-provided data will be retained for as long as you use the Application and for a reasonable time afterward.  
+Images captured or uploaded for AI analysis are **not stored permanently**.  
+
+To request deletion of your data, contact:  
 📧 [hamzaoguz123@gmail.com](mailto:hamzaoguz123@gmail.com)
 
 ## Children
