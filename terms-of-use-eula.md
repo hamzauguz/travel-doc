@@ -8,13 +8,14 @@ This End-User License Agreement ("EULA") is a legal agreement between you (the "
 The Service Provider grants you a limited, non-exclusive, non-transferable license to use the Application on your mobile device, solely for personal, non-commercial purposes, subject to the terms of this agreement.
 
 ## 2. Application Description
-Travexus is a travel application powered by artificial intelligence that helps you plan and organize your trips by providing travel recommendations based on the number of days, destinations, and categories you select. The application also includes an assistant feature, where you can store and manage your travel conversations.
+Travexus is a travel application powered by artificial intelligence that helps you plan and organize your trips by providing travel recommendations based on the number of days, destinations, and categories you select. The application also includes an assistant feature, where you can store and manage your travel conversations. Additionally, Travexus offers a “Snap & Discover” camera feature, allowing you to take photos of landmarks, artworks, or objects and instantly receive AI-powered identifications and descriptions.
 
 ## 3. Subscriptions
 Travexus offers two types of subscriptions:
 
 - **Monthly Subscription**: $3.99/month (iOS_app_proaccess_monthly_3.99)
 - **Annual Subscription**: $29.99/year (iOS_app_proaccess_annual_29.99)
+- **Annual Subscription**: $1.99/yeariOS_app_proaccess_weekly_1.99
 
 Subscriptions are billed at the rate selected by you and will automatically renew unless cancelled before the renewal date. To manage or cancel your subscription, please visit your App Store account settings.
 
