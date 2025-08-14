@@ -11,10 +11,18 @@ Uygulama, indirip kullandığınızda belirli bilgileri toplar. Bu bilgiler şun
 - Uygulama içinde geçirdiğiniz süre  
 - Mobil cihazınızda kullandığınız işletim sistemi  
 - **Cihazınızın konum bilgisi** (yaklaşık veya kesin, cihaz ayarlarınıza ve izinlerinize bağlı olarak)  
+- **Cihaz kamerası veya fotoğraf galerisine erişim izni ile alınan görseller** (yalnızca kullanıcı talebi üzerine ve anlık analiz amacıyla)  
 
+### Konum Verisi
 Uygulama, **kişiselleştirilmiş seyahat önerileri**, **yakındaki ilgi çekici yerler** ve **konuma bağlı içerikler** sunmak amacıyla konum verisi toplayabilir. Bu veri, uygulama açıkken veya arka planda (kullanıcının açık izniyle) toplanabilir. Toplanan konum verileri, yalnızca kullanıcı deneyimini iyileştirmek için kullanılır ve **reklam amaçlı üçüncü taraflarla paylaşılmaz**.
 
-Kullanıcı, cihazının ayarları üzerinden konum erişimini istediği zaman kapatabilir.
+### Kamera ve Galeri Erişimi
+Uygulama, **yapay zeka destekli görsel tanıma** özelliğini kullanabilmek için kamera veya galeri erişimi talep edebilir.  
+Bu özellik, örneğin bir sanat eseri, tarihi yapı veya herhangi bir kültürel objenin **ne olduğunu** ve **anlamını** belirlemek amacıyla fotoğraf çekmenizi veya galerinizden bir görsel seçmenizi sağlar.
+
+- Kamera veya galeriden alınan görseller, **yalnızca anlık analiz amacıyla** işlenir.  
+- Görseller **sunucularda kalıcı olarak saklanmaz** ve **üçüncü taraflara satılmaz**.  
+- Kullanıcı, cihaz ayarlarından bu izinleri istediği zaman iptal edebilir.
 
 Daha iyi bir deneyim için, Uygulamayı kullanırken kimlik bilgileriniz gibi bazı kişisel bilgiler vermeniz gerekebilir. Hizmet Sağlayıcı, bu bilgileri bu gizlilik politikasında açıklandığı şekilde saklayacak ve kullanacaktır.
 
@@ -40,11 +48,11 @@ Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan ve Otomatik Olarak Toplan
 
 ## Vazgeçme Hakkı
 
-Uygulamayı kaldırarak tüm veri toplamayı durdurabilirsiniz. Ayrıca, cihazınızın ayarları üzerinden konum erişimini devre dışı bırakabilirsiniz. Ancak konum erişimi kapatılırsa bazı özellikler çalışmayabilir.
+Uygulamayı kaldırarak tüm veri toplamayı durdurabilirsiniz. Ayrıca, cihazınızın ayarları üzerinden konum, kamera ve galeri erişimlerini devre dışı bırakabilirsiniz. Ancak bu izinler kapatılırsa bazı özellikler çalışmayabilir.
 
 ## Veri Saklama Politikası
 
-Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan verileri Uygulamayı kullandığınız sürece ve makul bir süre boyunca saklayacaktır. Uygulama aracılığıyla sağlanan verilerin silinmesini isterseniz, lütfen [hamzaoguz123@gmail.com](mailto:hamzaoguz123@gmail.com) adresinden iletişime geçin.
+Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan verileri Uygulamayı kullandığınız sürece ve makul bir süre boyunca saklayacaktır. Görseller ise analiz işlemi tamamlandıktan sonra kalıcı olarak saklanmaz. Uygulama aracılığıyla sağlanan diğer verilerin silinmesini isterseniz, lütfen [hamzaoguz123@gmail.com](mailto:hamzaoguz123@gmail.com) adresinden iletişime geçin.
 
 ## Çocuklar
 
