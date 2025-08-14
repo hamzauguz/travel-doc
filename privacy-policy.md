@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-Bu gizlilik politikası, **TravelAI** uygulaması (bundan böyle "Uygulama" olarak anılacaktır) için geçerlidir. Uygulama, **Hamza UĞUZ** (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından bir **Reklam Destekli** hizmet olarak oluşturulmuştur. Bu hizmet, **"Olduğu Gibi"** kullanılması amacıyla tasarlanmıştır.
+Bu gizlilik politikası, **Travexus** uygulaması (bundan böyle "Uygulama" olarak anılacaktır) için geçerlidir. Uygulama, **Hamza UĞUZ** (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından bir **Reklam Destekli** hizmet olarak oluşturulmuştur. Bu hizmet, **"Olduğu Gibi"** kullanılması amacıyla tasarlanmıştır.
 
 ## Bilgi Toplama ve Kullanma
 
@@ -10,7 +10,7 @@ Uygulama, indirip kullandığınızda belirli bilgileri toplar. Bu bilgiler şun
 - Uygulama içinde ziyaret ettiğiniz sayfalar, ziyaret tarih ve saati  
 - Uygulama içinde geçirdiğiniz süre  
 - Mobil cihazınızda kullandığınız işletim sistemi  
-- **Cihazınızın konum bilgisi (yaklaşık veya kesin, cihaz ayarlarınıza ve izinlerinize bağlı olarak)**  
+- **Cihazınızın konum bilgisi** (yaklaşık veya kesin, cihaz ayarlarınıza ve izinlerinize bağlı olarak)  
 
 Uygulama, **kişiselleştirilmiş seyahat önerileri**, **yakındaki ilgi çekici yerler** ve **konuma bağlı içerikler** sunmak amacıyla konum verisi toplayabilir. Bu veri, uygulama açıkken veya arka planda (kullanıcının açık izniyle) toplanabilir. Toplanan konum verileri, yalnızca kullanıcı deneyimini iyileştirmek için kullanılır ve **reklam amaçlı üçüncü taraflarla paylaşılmaz**.
 
