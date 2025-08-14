@@ -13,9 +13,9 @@ Travexus is a travel application powered by artificial intelligence that helps y
 ## 3. Subscriptions
 Travexus offers two types of subscriptions:
 
+- **Weekly Subscription**: $1.99/week (iOS_app_proaccess_weekly_1.99)
 - **Monthly Subscription**: $3.99/month (iOS_app_proaccess_monthly_3.99)
 - **Annual Subscription**: $29.99/year (iOS_app_proaccess_annual_29.99)
-- **Annual Subscription**: $1.99/yeariOS_app_proaccess_weekly_1.99
 
 Subscriptions are billed at the rate selected by you and will automatically renew unless cancelled before the renewal date. To manage or cancel your subscription, please visit your App Store account settings.
 
