@@ -114,7 +114,7 @@ This Privacy Policy may be updated from time to time.
 Changes will be posted on this page.  
 Continued use of the Application after updates constitutes your acceptance of the new terms.
 
-**Effective date:** 01.12.2025
+**Effective date:** 01.11.2025
 
 ---
 
