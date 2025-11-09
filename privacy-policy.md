@@ -112,7 +112,7 @@ Bu Gizlilik Politikası zaman zaman güncellenebilir.
 Tüm güncellemeler bu sayfa üzerinden paylaşılır.  
 Uygulamayı kullanmaya devam etmeniz, güncellenmiş şartları kabul ettiğiniz anlamına gelir.
 
-**Yürürlük Tarihi:** 01.12.2025
+**Yürürlük Tarihi:** 01.11.2025
 
 ---
 
